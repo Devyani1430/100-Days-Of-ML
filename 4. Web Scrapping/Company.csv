@@ -1,0 +1,201 @@
+,name,raing,reviews,salaries,interviews,No.Of Jobs,benefits,photos
+0,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+1,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+2,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+3,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+4,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+5,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+6,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+7,HCLTech,,48.4k,4L,4.7k,319,4k,74
+8,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+9,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+10,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+11,TP,,40.3k,1L,2.3k,1.2k,2k,41
+12,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+13,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+14,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+15,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+16,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+17,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+18,LTM Limited,,27.5k,2L,3.5k,688,895,34
+19,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+20,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+21,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+22,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+23,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+24,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+25,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+26,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+27,HCLTech,,48.4k,4L,4.7k,319,4k,74
+28,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+29,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+30,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+31,TP,,40.3k,1L,2.3k,1.2k,2k,41
+32,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+33,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+34,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+35,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+36,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+37,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+38,LTM Limited,,27.5k,2L,3.5k,688,895,34
+39,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+40,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+41,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+42,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+43,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+44,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+45,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+46,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+47,HCLTech,,48.4k,4L,4.7k,319,4k,74
+48,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+49,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+50,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+51,TP,,40.3k,1L,2.3k,1.2k,2k,41
+52,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+53,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+54,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+55,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+56,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+57,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+58,LTM Limited,,27.5k,2L,3.5k,688,895,34
+59,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+60,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+61,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+62,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+63,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+64,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+65,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+66,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+67,HCLTech,,48.4k,4L,4.7k,319,4k,74
+68,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+69,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+70,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+71,TP,,40.3k,1L,2.3k,1.2k,2k,41
+72,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+73,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+74,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+75,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+76,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+77,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+78,LTM Limited,,27.5k,2L,3.5k,688,895,34
+79,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+80,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+81,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+82,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+83,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+84,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+85,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+86,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+87,HCLTech,,48.4k,4L,4.7k,319,4k,74
+88,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+89,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+90,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+91,TP,,40.3k,1L,2.3k,1.2k,2k,41
+92,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+93,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+94,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+95,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+96,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+97,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+98,LTM Limited,,27.5k,2L,3.5k,688,895,34
+99,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+100,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+101,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+102,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+103,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+104,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+105,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+106,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+107,HCLTech,,48.4k,4L,4.7k,319,4k,74
+108,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+109,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+110,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+111,TP,,40.3k,1L,2.3k,1.2k,2k,41
+112,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+113,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+114,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+115,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+116,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+117,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+118,LTM Limited,,27.5k,2L,3.5k,688,895,34
+119,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+120,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+121,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+122,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+123,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+124,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+125,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+126,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+127,HCLTech,,48.4k,4L,4.7k,319,4k,74
+128,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+129,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+130,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+131,TP,,40.3k,1L,2.3k,1.2k,2k,41
+132,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+133,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+134,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+135,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+136,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+137,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+138,LTM Limited,,27.5k,2L,3.5k,688,895,34
+139,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+140,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+141,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+142,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+143,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+144,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+145,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+146,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+147,HCLTech,,48.4k,4L,4.7k,319,4k,74
+148,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+149,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+150,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+151,TP,,40.3k,1L,2.3k,1.2k,2k,41
+152,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+153,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+154,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+155,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+156,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+157,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+158,LTM Limited,,27.5k,2L,3.5k,688,895,34
+159,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+160,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+161,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+162,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+163,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+164,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+165,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+166,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+167,HCLTech,,48.4k,4L,4.7k,319,4k,74
+168,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+169,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+170,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+171,TP,,40.3k,1L,2.3k,1.2k,2k,41
+172,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+173,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+174,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+175,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+176,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+177,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+178,LTM Limited,,27.5k,2L,3.5k,688,895,34
+179,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
+180,TCS,,1.2L,10.4L,11.4k,5.5k,11k,100
+181,Accenture,,76.3k,7.3L,9.6k,16.4k,7k,49
+182,Wipro,,67.2k,4.9L,7k,2,4.9k,123
+183,Cognizant,,63.4k,6.1L,6.6k,948,5.7k,105
+184,Capgemini,,55.6k,5L,5.7k,2.1k,3.9k,53
+185,HDFC Bank,,54.8k,1.5L,3.2k,525,3.4k,100
+186,Infosys,,50.5k,5.3L,8.6k,3.6k,4.9k,120
+187,HCLTech,,48.4k,4L,4.7k,319,4k,74
+188,ICICI Bank,,47.2k,1.6L,3k,23,3.8k,74
+189,Tech Mahindra,,44.9k,2.9L,4.7k,812,3.5k,88
+190,Genpact,,44.1k,2.4L,4k,500,3.7k,78
+191,TP,,40.3k,1L,2.3k,1.2k,2k,41
+192,Axis Bank,,34.7k,1L,2k,228,2.2k,134
+193,Jio,,34.4k,61.1k,4.6k,--,2.6k,93
+194,Concentrix Corporation,,33.3k,1.3L,2.1k,34,3.2k,70
+195,Amazon,,32.9k,1.6L,6.2k,88,3.4k,104
+196,Reliance Retail,,28.1k,75.2k,2k,84,1.9k,151
+197,iEnergizer,,27.9k,25.4k,1.7k,80,924,30
+198,LTM Limited,,27.5k,2L,3.5k,688,895,34
+199,HDB Financial Services,,26.6k,49.3k,1.1k,4,1.4k,83
